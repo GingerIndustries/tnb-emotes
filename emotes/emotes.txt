@@ -1,0 +1,3 @@
+:include cgcc
+
+demoncat.png: demon-cat demoncat
