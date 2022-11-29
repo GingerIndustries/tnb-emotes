@@ -29,3 +29,4 @@ wtf.png: niko-wtf
 wtf2.png: niko-wtf2
 wtf3.png: niko-wtf3
 wtf4.png: niko-wtf4
+niko-blink.gif: niko-blink
