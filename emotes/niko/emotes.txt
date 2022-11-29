@@ -1,0 +1,31 @@
+base.png: niko
+crying.png: niko-crying niko-cry
+crying2.png: niko-crying2 niko-cry2
+crying-eyes-closed.png: niko-crying-eyes-closed
+eyes-closed.png: niko-eyes-closed
+eyes-closed-talk.png: niko-eyes-closed-talk
+gas-mask.png: niko-gas-mask
+happy.png: niko-happy
+happy2.png: niko-happy2
+look.png: niko2
+look-down.png: niko-look-down
+look-down-left.png: niko-look-down-left
+look-down-talk.png: niko-look-down-talk
+look-left.png: niko-look-left
+look-right.png: niko-look-right
+look-right-concerned.png: niko-concerned
+poggers.png: niko-pog niko-poggers
+sad.png: niko-sad
+sad-speak.png: niko-sad.speak
+sad-wipe.png: niko-crying-wipe
+surprised.png: niko-surprised
+surprised-talk.png: niko-surprised-talk
+talk.png: niko-talk
+talk2.png: niko-talk2
+talk3.png: niko-talk3
+tired.png: niko-tired niko-yawn
+unhappy-look-left.png: niko-unhappy-look-left
+wtf.png: niko-wtf
+wtf2.png: niko-wtf2
+wtf3.png: niko-wtf3
+wtf4.png: niko-wtf4
