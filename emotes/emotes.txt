@@ -1,3 +1,4 @@
 :include cgcc
+:include niko
 
 demoncat.png: demon-cat demoncat
