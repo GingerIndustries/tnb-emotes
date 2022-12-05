@@ -2,3 +2,4 @@
 :include niko
 
 demoncat.png: demon-cat demoncat
+jeb.png: cursed-jeb jeb
